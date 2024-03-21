@@ -10,6 +10,9 @@
 \usepackage{graphicx}
 \usepackage{pdfpages}
 \usepackage{gauss}
+\usepackage{amssymb}
+
+
 
 \DeclareCaptionType{equ}[][List of equations]
 \captionsetup[equ]{labelformat=empty}
@@ -54,6 +57,7 @@
 \lstset{literate={ą}{{\k{a}}}1 {ł}{{\l{}}}1 {ń}{{\'n}}1 {ę}{{\k{e}}}1 {ś}{{\'s}}1 {ż}{{\.z}}1 {ó}{{\'o}}1 {ź}{{\'z}}1 {Ą}{{\k{A}}}1 {Ł}{{\L{}}}1 {Ń}{{\'N}}1 {Ę}{{\k{E}}}1 {Ś}{{\'S}}1 {Ż}{{\.Z}}1 {Ó}{{\'O}}1 {Ź}{{\'Z}}1 }
 
 \begin{document}
+
 \title{Sprawozdanie nr. 2 - Metody numeryczne i optymailzacja}
 \author{Jakub Andryszczak 259519,\\ Jakub Żak 244255,\\ Maciej Cierpisz 249163}
 \date{}
@@ -125,6 +129,114 @@ wyborem element podstawowego:
 \section{Zadanie nr. 3}
 
 \section{Zadanie nr. 4}
+Wyznacz $A^{100}$ metodą diagonalizacji macierzy A = $\begin{bmatrix} 4 & 3 \\ 1 & 2 \end{bmatrix}$\\
+
+Obliczanie wartości własnych:
+\begin{equation}
+  \det(A - tI) = \begin{bmatrix} 4-t & 3 \\ 1 & 2-t \end{bmatrix} = t^2 - 6t + 5 = (t-1)(t-5) =0 
+\end{equation}
+
+\begin{equation}
+\begin{cases}
+  t_1 = 1\\
+  t_2 = 5
+\end{cases}
+\end{equation}\\
+
+Obliczanie wektorów własnych:\\
+\begin{equation}
+  (A - t_{1}I) = \begin{bmatrix} 3 & 3 \\ 1 & 1 \end{bmatrix}
+\end{equation}
+
+\begin{equation}
+  (A - tI)*v = 0
+\end{equation}\\
+
+\[
+  \centering
+  \linespread{2}\selectfont
+  \addtolength{\arraycolsep}{10pt}
+ \begin{gmatrix}[b]
+3 & 3 & \BAR & 0\\
+1 & 1 & \BAR & 0
+\rowops
+\mult{0}{\cdot \left(\frac1{3}\right)}
+\add[-1]01
+ \end{gmatrix}
+\]
+
+\[
+  \centering
+  \linespread{2}\selectfont
+  \addtolength{\arraycolsep}{10pt}
+ \begin{gmatrix}[b]
+1 & 1 & \BAR & 0\\
+0 & 0 & \BAR & 0
+ \end{gmatrix}
+\]
+
+\begin{equation}
+  X = \begin{bmatrix} -1  \\ 1  \end{bmatrix}
+\end{equation}
+
+\begin{equation}
+  (A - t_{1}I) = \begin{bmatrix} -1 & 3 \\ 1 & -3 \end{bmatrix}
+\end{equation}
+
+\begin{equation}
+  (A - tI)*v = 0
+\end{equation}\\
+
+\[
+  \centering
+  \linespread{2}\selectfont
+  \addtolength{\arraycolsep}{10pt}
+ \begin{gmatrix}[b]
+3 & 3 & \BAR & 0\\
+1 & 1 & \BAR & 0
+\rowops
+\mult{0}{\cdot \left( -1 \right)}
+\add[-1]01
+ \end{gmatrix}
+\]
+
+\[
+  \centering
+  \linespread{2}\selectfont
+  \addtolength{\arraycolsep}{10pt}
+ \begin{gmatrix}[b]
+1 & -3 & \BAR & 0\\
+0 & 0 & \BAR & 0
+ \end{gmatrix}
+\]
+
+\begin{equation}
+  X = \begin{bmatrix} 3  \\[6pt] 1  \end{bmatrix}
+\end{equation}
+
+Obliczanie potęgi macierzy po diagonalizacji:
+
+\begin{equation}
+  D = \begin{bmatrix} 1 & 0  \\[6pt] 0 & 5  \end{bmatrix}
+\end{equation}
+
+\begin{equation}
+  P = \begin{bmatrix} -1 & 3  \\[6pt] 1 & 1  \end{bmatrix}
+\end{equation}
+
+\begin{equation} 
+  P^{-1} = \begin{bmatrix} -\frac{1}{4} & \frac3{4}  \\[6pt]
+    \frac{1}{4} & \frac{1}{4}  \end{bmatrix}
+\end{equation}
+
+\begin{equation} 
+  A^{100} = P*D^{100}*P^{-1}
+\end{equation}
+
+\begin{equation} 
+  A^{100} = \begin{bmatrix} -1 & 3  \\[6pt] 1 & 1  \end{bmatrix} * \begin{bmatrix} 1^{100} & 0  \\[6pt] 0 & 5^{100}  \end{bmatrix} * \begin{bmatrix} -\frac{1}{4} & \frac3{4}  \\[6pt]
+    \frac{1}{4} & \frac{1}{4}  \end{bmatrix}
+\end{equation}
 
 \section{Zadanie nr. 5}
 

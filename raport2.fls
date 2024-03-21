@@ -162,18 +162,48 @@ INPUT ./image.png
 INPUT ./image.png
 INPUT ./image.png
 INPUT ./image.png
+INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/pl/plr7.tfm
+INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/pl/plr5.tfm
+INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/pl/plmi10.tfm
+INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/pl/plmi7.tfm
+INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/pl/plmi5.tfm
+INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/pl/plsy10.tfm
+INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/pl/plsy7.tfm
+INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/pl/plsy5.tfm
+INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam5.tfm
+INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
 INPUT raport2.aux
-INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/pl/pltt.enc
+INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/pl/plsc.enc
+INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/pl/plms.enc
+INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/pl/plme.enc
 INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/pl/plrm.enc
+INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/pl/plmi.enc
+INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/pl/pltt.enc
 INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plbx10.pfb
 INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plbx10.pfb
 INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plbx12.pfb
 INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plbx12.pfb
+INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plex10.pfb
+INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plex10.pfb
+INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plmi10.pfb
+INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plmi10.pfb
 INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plr10.pfb
 INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plr10.pfb
 INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plr12.pfb
 INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plr12.pfb
 INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plr17.pfb
 INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plr17.pfb
+INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plr5.pfb
+INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plr5.pfb
+INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plr7.pfb
+INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plr7.pfb
+INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plsy10.pfb
+INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plsy10.pfb
+INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plsy7.pfb
+INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plsy7.pfb
 INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/pltt9.pfb
 INPUT /Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/pltt9.pfb
