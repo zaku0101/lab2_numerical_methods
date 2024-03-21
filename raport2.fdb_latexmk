@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1711056438.69833 "/Users/zaku/Desktop/SQL/numerical methods/lab2/tex/raport2.tex" "raport2.pdf" "raport2" 1711056439.17458 0
+["pdflatex"] 1711056731.55758 "/Users/zaku/Desktop/SQL/numerical methods/lab2/tex/raport2.tex" "raport2.pdf" "raport2" 1711056732.06494 0
   "/Users/zaku/Desktop/SQL/numerical methods/lab2/tex/raport2.tex" 1711056438.04341 5595 26a58df1eef5a4430ac47fc64ebfa5cf ""
   "/Users/zaku/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1710785871.86589 86553 91af261fa287312f2fb1f66a097366be ""
   "/Users/zaku/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1710495684.02619 24240993 5f380fc19045342e85560256ac255aba ""
@@ -102,9 +102,9 @@
   "/Users/zaku/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/calc.sty" 1710495158.13645 10214 547fd4d29642cb7c80bf54b49d447f01 ""
   "/Users/zaku/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/indentfirst.sty" 1710495158.14252 1618 c5f08dcf49a56107311a81073b35fa4e ""
   "image.png" 1710877544.37661 36153 7326147b645d36bffb60dfa16a544f12 ""
-  "raport2.aux" 1711056439.07357 739 b07da2fddd4730fb525428f329f12926 "pdflatex"
+  "raport2.aux" 1711056731.96106 739 b07da2fddd4730fb525428f329f12926 "pdflatex"
   "raport2.tex" 1711056438.04341 5595 26a58df1eef5a4430ac47fc64ebfa5cf ""
-  "raport2.toc" 1711056439.07433 420 180e356c33b4be8c3d4bc3407f2cbdbb "pdflatex"
+  "raport2.toc" 1711056731.96163 420 180e356c33b4be8c3d4bc3407f2cbdbb "pdflatex"
   (generated)
   "raport2.aux"
   "raport2.log"
