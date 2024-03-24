@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.3.15)  19 MAR 2024 20:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.3.15)  24 MAR 2024 20:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -278,14 +278,14 @@ Package: gauss 2003/01/14
 \colopminsize=\dimen186
 \rowopminsize=\dimen187
 )
-Package caption Info: Option `declare type' requires the `newfloat' package on input line 14.
+Package caption Info: Option `declare type' requires the `newfloat' package on input line 17.
  (/Users/zaku/Library/Application Support/MiKTeX/texmfs/install/tex/latex/newfloat/newfloat.sty
 Package: newfloat 2023/10/01 v1.2 Defining new floating environments (AR)
 )
-Package newfloat Info: New float `equ' with options `' on input line 14.
+Package newfloat Info: New float `equ' with options `' on input line 17.
 \c@equ=\count299
 \newfloat@ftype=\count300
-Package newfloat Info: float type `equ'=8 on input line 14.
+Package newfloat Info: float type `equ'=8 on input line 17.
  (/Users/zaku/Library/Application Support/MiKTeX/texmfs/install/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count301
@@ -298,22 +298,22 @@ File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 ) (raport2.aux)
 \openout1 = `raport2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
 \c@lstlisting=\count303
  (/Users/zaku/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -347,29 +347,29 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
-LaTeX Font Info:    Trying to load font information for OML+plm on input line 60.
+LaTeX Font Info:    Trying to load font information for OML+plm on input line 64.
  (/Users/zaku/Library/Application Support/MiKTeX/texmfs/install/tex/latex/polski/omlplm.fd
 File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Trying to load font information for OMS+plsy on input line 60.
+LaTeX Font Info:    Trying to load font information for OMS+plsy on input line 64.
  (/Users/zaku/Library/Application Support/MiKTeX/texmfs/install/tex/latex/polski/omsplsy.fd
 File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Trying to load font information for OMX+plex on input line 60.
+LaTeX Font Info:    Trying to load font information for OMX+plex on input line 64.
  (/Users/zaku/Library/Application Support/MiKTeX/texmfs/install/tex/latex/polski/omxplex.fd
 File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <12> on input line 60.
+(Font)              <12> on input line 64.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <8> on input line 60.
+(Font)              <8> on input line 64.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <6> on input line 60.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 60.
+(Font)              <6> on input line 64.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 64.
  (/Users/zaku/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 60.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 64.
  (/Users/zaku/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
@@ -379,38 +379,68 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout3 = `raport2.toc'.
 
  [2]
-LaTeX Font Info:    Trying to load font information for OT4+cmtt on input line 74.
+LaTeX Font Info:    Trying to load font information for OT4+cmtt on input line 78.
  (/Users/zaku/Library/Application Support/MiKTeX/texmfs/install/tex/latex/polski/ot4cmtt.fd
 File: ot4cmtt.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 ) [3]
 <image.png, id=17, 398.48875pt x 65.24374pt>
 File: image.png Graphic file (type png)
 <use image.png>
-Package pdftex.def Info: image.png  used on input line 120.
+Package pdftex.def Info: image.png  used on input line 124.
 (pdftex.def)             Requested size: 278.94022pt x 45.6703pt.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <10> on input line 132.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <7> on input line 132.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <5> on input line 132.
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--133
+
+ []
 
 
-Package caption Warning: Unused \captionsetup[equ] on input line 15.
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+
+ []
+
+[4 <./image.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
+
+ []
+
+
+Package caption Warning: Unused \captionsetup[equ] on input line 18.
 See the caption package documentation for explanation.
 
-[4 <./image.png>] (raport2.aux)
+[5] (raport2.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 7397 strings out of 474436
- 119492 string characters out of 5733960
+ 7468 strings out of 474436
+ 120443 string characters out of 5733960
  1998187 words of memory out of 5000000
- 29629 multiletter control sequences out of 15000+600000
- 566281 words of font info for 59 fonts, out of 8000000 for 9000
+ 29691 multiletter control sequences out of 15000+600000
+ 570479 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,8n,67p,571b,799s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/pl/pltt.enc}{/Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/pl/plrm.enc}</Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plbx10.pfb></Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plbx12.pfb></Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plr10.pfb></Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plr12.pfb></Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plr17.pfb></Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/pltt9.pfb>
-Output written on raport2.pdf (4 pages, 82641 bytes).
+ 68i,14n,67p,571b,799s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/pl/plsc.enc}{/Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/pl/plms.enc}{/Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/pl/plme.enc}{/Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/pl/plrm.enc}{/Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/pl/plmi.enc}{/Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/pl/pltt.enc}</Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plbx10.pfb></Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plbx12.pfb></Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plex10.pfb></Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plmi10.pfb></Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plr10.pfb></Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plr12.pfb></Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plr17.pfb></Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plr5.pfb></Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plr7.pfb></Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plsy10.pfb></Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plsy7.pfb></Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/pltt9.pfb>
+Output written on raport2.pdf (5 pages, 116073 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
+ 87 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
