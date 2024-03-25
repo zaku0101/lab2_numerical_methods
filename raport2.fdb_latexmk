@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1711326578.32533 "/Users/zaku/Desktop/SQL/numerical methods/lab2/tex/raport2.tex" "raport2.pdf" "raport2" 1711326578.95686 0
-  "/Users/zaku/Desktop/SQL/numerical methods/lab2/tex/raport2.tex" 1711326577.64785 19113 5ad832731b250274ab8847ef32fdd8c6 ""
-  "/Users/zaku/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1711326293.88062 86553 91af261fa287312f2fb1f66a097366be ""
+["pdflatex"] 1711380830.12504 "/Users/zaku/Desktop/SQL/numerical methods/lab2/tex/raport2.tex" "raport2.pdf" "raport2" 1711380830.8594 0
+  "/Users/zaku/Desktop/SQL/numerical methods/lab2/tex/raport2.tex" 1711380829.47602 20041 1cf21b75c561451973002c9318ccb98c ""
+  "/Users/zaku/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1711380549.0958 86553 91af261fa287312f2fb1f66a097366be ""
   "/Users/zaku/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1710495684.02619 24240993 5f380fc19045342e85560256ac255aba ""
   "/Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/pl/plme.enc" 958947240 3126 59f33ff3e396436ebc36f4e7b444d5c4 ""
   "/Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/pl/plmi.enc" 958947240 2005 f094775651a1386335c158fb632529f1 ""
@@ -103,13 +103,17 @@
   "/Users/zaku/Library/Application Support/MiKTeX/texmfs/install/tex/latex/polski/polski.sty" 1710495685.49513 13344 a993928ba746ec4e012bfd315bcc48d8 ""
   "/Users/zaku/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/calc.sty" 1710495158.13645 10214 547fd4d29642cb7c80bf54b49d447f01 ""
   "/Users/zaku/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/indentfirst.sty" 1710495158.14252 1618 c5f08dcf49a56107311a81073b35fa4e ""
+  "10.png" 1711380128.84973 76486 c42fd6706c506be3343b063b16b332f8 ""
+  "20.png" 1711380142.99811 90486 64468991b8cf9663f997ff1616741fc2 ""
+  "40.png" 1711380161.36014 107883 a2520a7c56463aa3985e6377362e97a9 ""
   "image.png" 1710877544.37661 36153 7326147b645d36bffb60dfa16a544f12 ""
   "matrixA.png" 1711325048.25478 28636 dad70892dd6377f723cba1f9498fae93 ""
   "matrixB.png" 1711325064.01673 24535 ea3e8947276b24d650cce0fdef1dea5b ""
   "matrixC.png" 1711325084.09344 35123 89dcde58eed1b5cdc666bf62c06a1222 ""
-  "raport2.aux" 1711326578.84124 743 e608b3f65c358fd126914bcb9c06d7b5 "pdflatex"
-  "raport2.tex" 1711326577.64785 19113 5ad832731b250274ab8847ef32fdd8c6 ""
-  "raport2.toc" 1711326578.84187 423 11a571ae7b675265c1d05af851a4ff64 "pdflatex"
+  "origin.jpeg" 1711379999.13398 107329 26e16131d4778382634bbde8c0024b40 ""
+  "raport2.aux" 1711380830.74831 743 8ea1b4cee997556d81403e6afe853114 "pdflatex"
+  "raport2.tex" 1711380829.47602 20041 1cf21b75c561451973002c9318ccb98c ""
+  "raport2.toc" 1711380830.7489 423 11a571ae7b675265c1d05af851a4ff64 "pdflatex"
   (generated)
   "raport2.aux"
   "raport2.log"
