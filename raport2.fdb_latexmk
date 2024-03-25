@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1711380830.12504 "/Users/zaku/Desktop/SQL/numerical methods/lab2/tex/raport2.tex" "raport2.pdf" "raport2" 1711380830.8594 0
-  "/Users/zaku/Desktop/SQL/numerical methods/lab2/tex/raport2.tex" 1711380829.47602 20041 1cf21b75c561451973002c9318ccb98c ""
+["pdflatex"] 1711394104.96129 "/Users/zaku/Desktop/SQL/numerical methods/lab2/tex/raport2.tex" "raport2.pdf" "raport2" 1711394105.74595 0
+  "/Users/zaku/Desktop/SQL/numerical methods/lab2/tex/raport2.tex" 1711394103.96137 23901 ea7d558e9f6ddd0a572abd2904515532 ""
   "/Users/zaku/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1711380549.0958 86553 91af261fa287312f2fb1f66a097366be ""
   "/Users/zaku/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1710495684.02619 24240993 5f380fc19045342e85560256ac255aba ""
   "/Users/zaku/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/pl/plme.enc" 958947240 3126 59f33ff3e396436ebc36f4e7b444d5c4 ""
@@ -111,9 +111,9 @@
   "matrixB.png" 1711325064.01673 24535 ea3e8947276b24d650cce0fdef1dea5b ""
   "matrixC.png" 1711325084.09344 35123 89dcde58eed1b5cdc666bf62c06a1222 ""
   "origin.jpeg" 1711379999.13398 107329 26e16131d4778382634bbde8c0024b40 ""
-  "raport2.aux" 1711380830.74831 743 8ea1b4cee997556d81403e6afe853114 "pdflatex"
-  "raport2.tex" 1711380829.47602 20041 1cf21b75c561451973002c9318ccb98c ""
-  "raport2.toc" 1711380830.7489 423 11a571ae7b675265c1d05af851a4ff64 "pdflatex"
+  "raport2.aux" 1711394105.62061 743 d468a73e7d13b03c646372c351903e0d "pdflatex"
+  "raport2.tex" 1711394103.96137 23901 ea7d558e9f6ddd0a572abd2904515532 ""
+  "raport2.toc" 1711394105.62138 423 3eb304656f1f87163f132f129d58c184 "pdflatex"
   (generated)
   "raport2.aux"
   "raport2.log"
